@@ -12,5 +12,5 @@ joao.oconoski@escola.pr.gov.br
 
 @jvzinn.shoio
 
-![](https://media.tenor.com/KyQn8EktSfsAAAAC/cassio-guitarra.gif)
+![https://media.tenor.com/KyQn8EktSfsAAAAC/cassio-guitarra.gif]()
 
