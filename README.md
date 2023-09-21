@@ -2,7 +2,7 @@ boas vindas ao meu perfil 🖤
 
 Meu nome é SHOIO
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https;//
 - Estou me desenvolven na linguagem JavaScript
 - Utilizando esse espaço para minha organizacao e compartilhamento dos meu projetos desnvolvidos
 
@@ -12,5 +12,5 @@ joao.oconoski@escola.pr.gov.br
 
 @jvzinn.shoio
 
-![https://media.tenor.com/KyQn8EktSfsAAAAC/cassio-guitarra.gif]()
+![](https://media.tenor.com/KyQn8EktSfsAAAAC/cassio-guitarra.gif)
 
