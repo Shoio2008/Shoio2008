@@ -12,5 +12,6 @@ joao.oconoski@escola.pr.gov.br
 
 @jvzinn.shoio
 
-![]()
+![](![image](https://github.com/Shoio2008/Shoio2008/assets/145467631/67dd9178-ffd2-419c-8b60-50ea67c7e6e5)
+)
 
